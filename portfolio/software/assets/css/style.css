@@ -84,6 +84,7 @@ body { font-family: 'Roboto', sans-serif }
 	.container-flexbox .item-col-3 {
 		text-align: center; 
 		width: 100%;
+		padding: 10%;
 	}
 }
 
@@ -91,7 +92,7 @@ body { font-family: 'Roboto', sans-serif }
 
 .container-flexbox .item-col-3 {
 	background-color: #fff;
-	box-shadow: rgba (160, 160, 160, 0.8) 5px 5px 20px;
+	box-shadow: rgba(160,160,160,0.8) 5px 5px 20px;
 	border-radius: 12px;
 	
 }
@@ -116,10 +117,10 @@ body { font-family: 'Roboto', sans-serif }
 
 	.container-flexbox.item-col-3 img {
 	margin-bottom: 18px;
-}
+	border-radius: 5px;
+	}
 
 }
-
 
 .container-flexbox.happy-users .item-col-3  {
 	text-align: center;
